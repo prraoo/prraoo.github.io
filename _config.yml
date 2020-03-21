@@ -83,12 +83,12 @@ author:
   name             : "Pramod Rao"
   avatar           : "RaoPramod_Photograph.jpg"
   bio              : "Graduate Student"
-  location         : "Saarbrücken"
+  location         : "[Saarbrücken](https://goo.gl/maps/5sVsm9uqfn5y4cSd7)"
   employer         :
-  pubmed           : #""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nWwfdh4AAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "s8prrao at stud.uni-saarland.de "
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "raoanonymous"
+  github           : "prraoo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "pramodrameshrao/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
